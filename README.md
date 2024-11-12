@@ -13,7 +13,7 @@
 - hands-on-ml : 핸즈온 머신러닝 책 필사
 - kaggle : 캐글 필사 및 실습
 - project : 다양한 프로젝트 폴더
-- py-ml-deinitive-guide : 파이썬 머신러닝 완벽 가이드 책 필사
+- py-ml-definitive-guide : 파이썬 머신러닝 완벽 가이드 책 필사
 - session : 세션 시간에 진행한 연습문제 모음
 
 ### 관련 링크
